@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="helllooooo" />
+  <HelloWorld msg="Deploy workflow test" />
 </template>
 
 <script>
