@@ -220,7 +220,7 @@ function addMarker(data) {
   }
 }
 //json파일 임포트
-import cultures from '../dist/data/culture.json';
+import cultures from './resources/data/culture.json';
 export default {
   data() {
     return {
@@ -399,10 +399,10 @@ export default {
 @import 'https://fonts.googleapis.com/css?family=Pacifico';
 @import 'https://fonts.googleapis.com/css?family=PT+Serif';
 @import 'https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css';
-@import '../dist/css/style.css';
-@import '../dist/css/typography-default.css';
-@import '../dist/css/skins/light_blue.css';
-@import '../dist/css/custom.css';
+@import './resources/css/style.css';
+@import './resources/css/typography-default.css';
+@import './resources/css/skins/light_blue.css';
+@import './resources/css/custom.css';
 .map {
   width: 650px;
   height: 550px;
