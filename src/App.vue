@@ -12,7 +12,7 @@
         <div class="row justify-content-lg-center">
           <div class="col-lg-8 text-center pv-20">
             <h2 class="title">
-              <strong>문 화 지 도 </strong>
+              <strong>문 화 지 도2 </strong>
             </h2>
             <div class="separator"></div>
             <p class="text-center" data-effect-delay="100">Moonhwa Joa</p>
